@@ -5,7 +5,7 @@ function Page2() {
         <>
             <div className="parent flex-col flex-wrap justify-center">
                 <div className="first flex justify-center">
-                    <div className='w-[300px] h-[300px] m-[3px]  hover:rotate-2'><img src="../public/img/buy-plants.jpg.webp" alt="" /></div>
+                    <div className='w-[300px] h-[300px] m-[3px]  hover:scale-125 duration-1000'><img src="../public/img/buy-plants.jpg.webp" alt="" /></div>
                     <div className='w-[300px] h-[300px] m-[3px]  hover:rotate-2 '><img src="../public/img/Sympathy-Flowers-VIP.jpg.webp" alt="" /></div>
                     <div className='w-[300px] h-[300px] m-[3px]  hover:rotate-2'><img src="../public/img/Flower-Bouquet-VIP.jpg.webp" alt="" /></div>
                     <div className='w-[300px] h-[300px] m-[3px]  hover:rotate-2'><img src="../public/img/flower-stand.webp" alt="" /></div>
@@ -17,7 +17,7 @@ function Page2() {
                     <div className='w-[300px] h-[300px] m-[3px]  hover:rotate-2'><img src="../public/img/Terrarium-VIP.jpg.webp" alt="" /></div>
                 </div>
 
-            </div>
+            </div >
 
         </>
     )
