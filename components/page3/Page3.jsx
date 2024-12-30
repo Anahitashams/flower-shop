@@ -1,9 +1,11 @@
 import React from 'react'
 
 function Page3() {
-  return (
-    <div>Page3</div>
-  )
+    return (
+        <>
+
+        </>
+    )
 }
 
 export default Page3
