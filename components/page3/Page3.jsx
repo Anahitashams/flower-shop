@@ -3,9 +3,8 @@ import React from 'react'
 function Page3() {
     return (
         <>
-
-
-            <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div className='w-100% h-[500px] bg-gray-100 '>
+        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                 <a href="#">
                     <img class="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
                 </a>
@@ -22,6 +21,7 @@ function Page3() {
                     </a>
                 </div>
             </div>
+        </div>
 
         </>
     )
