@@ -12,10 +12,10 @@ function Page2() {
                 </div>
 
                 <div className="secound flex justify-center">
-                    <div className='w-[300px] h-[300px] m-[3px] relative overflow-hidden'><img src="../public/img/IMG_207777777777777777777777777-1.jpg.webp" alt="" /></div>
-                    <div className='w-[300px] h-[300px] m-[3px] relative overflow-hidden'><img src="../public/img/luxury-flower-box-2-min-min (1).jpg" alt="" /></div>
-                    <div className='w-[300px] h-[300px] m-[3px] relative overflow-hidden'><img src="../public/img/Sympathy-Flowers-VIP.jpg.webp" alt="" /></div>
-                    <div className='w-[300px] h-[300px] m-[3px] relative overflow-hidden'><img src="../public/img/Terrarium-VIP.jpg.webp" alt="" /></div>
+                    <div className='w-[300px] h-[300px] m-[3px] relative overflow-hidden'><img className='w-full h-full hover:scale-110 transition-transform duration-1000' src="../public/img/IMG_207777777777777777777777777-1.jpg.webp" alt="" /></div>
+                    <div className='w-[300px] h-[300px] m-[3px] relative overflow-hidden'><img className='w-full h-full hover:scale-110 transition-transform duration-1000' src="../public/img/luxury-flower-box-2-min-min (1).jpg" alt="" /></div>
+                    <div className='w-[300px] h-[300px] m-[3px] relative overflow-hidden'><img className='w-full h-full hover:scale-110 transition-transform duration-1000' src="../public/img/Sympathy-Flowers-VIP.jpg.webp" alt="" /></div>
+                    <div className='w-[300px] h-[300px] m-[3px] relative overflow-hidden'><img className='w-full h-full hover:scale-110 transition-transform duration-1000' src="../public/img/Terrarium-VIP.jpg.webp" alt="" /></div>
                 </div>
 
             </div >
