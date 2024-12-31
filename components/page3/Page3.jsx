@@ -3,7 +3,7 @@ import React from 'react'
 function Page3() {
     return (
         <>
-            <div className="w-[100%] h-[900px] bg-gray-100 mt-[40px] flex flex-col">
+            <div className="w-[100%] h-[900px] bg-gray-100 dark:bg-gray-950 mt-[40px] flex flex-col">
                 <h1 className=' decoration-emerald-950 flex justify-center mt-16 text-2xl'>فروش محصولات ویژه</h1>
                 <div class="m-auto mt-[60px] max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     <a href="#">
