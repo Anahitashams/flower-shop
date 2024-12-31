@@ -13,9 +13,9 @@ function App() {
       <Header />
       <Back />
       <Box />
+      <Page4 />
       <Page2 />
       <Page3 />
-      <Page4 />
     </>
   )
 }
