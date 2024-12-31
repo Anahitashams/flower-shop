@@ -15,9 +15,7 @@ function Page3() {
                         </a>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 text-left">2.500 تومان</p>
                     </div>
-
                 </div>
-
             </div>
         </>
     )
