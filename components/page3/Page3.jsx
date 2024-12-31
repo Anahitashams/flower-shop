@@ -7,7 +7,7 @@ function Page3() {
                 <h1 className='flex justify-center mt-[40px]'>محصولات فروش ویژه</h1>
                 <div className="card bg-base-100 w-96 shadow-xl m-auto mt-[50px]">
                     <figure>
-                        <img
+                        <img className='bg-cover bg-center'
                             src="../public/img/Flower-Basket-VIP-250x250.jpg.webp"
                             alt="Shoes" />
                     </figure>
