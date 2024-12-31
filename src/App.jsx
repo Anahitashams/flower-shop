@@ -15,6 +15,7 @@ function App() {
       <Box />
       <Page2 />
       <Page3 />
+      <Page4 />
     </>
   )
 }
